@@ -10,7 +10,6 @@ Icon
 .Trashes
 ._*
 package-lock.json
-yarn.lock
 
 ############################
 # Linux
